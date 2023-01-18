@@ -18,7 +18,7 @@ sites:
     url: https://api-swiss.so-comply.com/v1/health-check
 
 status-website:
-  baseUrl: /smartoversight-status
+  cname: status.smart-oversight.com
   logoUrl: https://www.smart-oversight.com/wp-content/uploads/Logo-smartoversight.png
   name: Smart Oversight Status
   navbar:

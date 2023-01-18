@@ -20,7 +20,7 @@ sites:
 status-website:
   baseUrl: /smartoversight-status
   logoUrl: https://www.smart-oversight.com/wp-content/uploads/Logo-smartoversight.png
-  name: Smart Oversight STatus
+  name: Smart Oversight Status
   navbar:
     - title: Status
       href: /

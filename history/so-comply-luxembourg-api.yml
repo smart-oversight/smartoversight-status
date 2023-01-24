@@ -1,7 +1,7 @@
 url: https://api-lux.so-comply.com/v1/health-check
-status: up
-code: 200
-responseTime: 921
-lastUpdated: 2023-01-23T23:02:13.194Z
+status: down
+code: 502
+responseTime: 539
+lastUpdated: 2023-01-24T19:27:07.703Z
 startTime: Wed Jan 18 2023 16:10:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

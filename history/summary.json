@@ -22,19 +22,19 @@
     "url": "https://app-lux.so-comply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app-lux.so-comply.com.ico",
     "slug": "so-comply-luxembourg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 680,
-    "timeWeek": 658,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 682,
+    "timeDay": 753,
+    "timeWeek": 682,
+    "timeMonth": 682,
+    "timeYear": 682,
     "dailyMinutesDown": {
-      "2023-01-24": 0
+      "2023-01-24": 36
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://api-lux.so-comply.com/v1/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api-lux.so-comply.com.ico",
     "slug": "so-comply-luxembourg-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 730,
-    "timeWeek": 700,
-    "timeMonth": 700,
-    "timeYear": 700,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 728,
+    "timeDay": 813,
+    "timeWeek": 728,
+    "timeMonth": 728,
+    "timeYear": 728,
     "dailyMinutesDown": {
-      "2023-01-24": 0
+      "2023-01-24": 36
     }
   },
   {

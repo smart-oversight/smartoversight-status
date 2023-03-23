@@ -104,9 +104,9 @@
     "url": "https://app-swiss.so-comply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app-swiss.so-comply.com.ico",
     "slug": "so-comply-switzerland",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -116,6 +116,7 @@
     "timeMonth": 726,
     "timeYear": 708,
     "dailyMinutesDown": {
+      "2023-03-23": 0,
       "2023-01-25": 18,
       "2023-01-24": 24
     }
@@ -125,9 +126,9 @@
     "url": "https://api-swiss.so-comply.com/v1/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api-swiss.so-comply.com.ico",
     "slug": "so-comply-switzerland-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -137,6 +138,7 @@
     "timeMonth": 771,
     "timeYear": 752,
     "dailyMinutesDown": {
+      "2023-03-23": 0,
       "2023-01-25": 59,
       "2023-01-24": 24
     }

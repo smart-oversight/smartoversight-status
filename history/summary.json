@@ -68,10 +68,10 @@
     "url": "https://app.so-comply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.so-comply.com.ico",
     "slug": "so-comply-europe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 641,
@@ -80,6 +80,7 @@
     "timeMonth": 623,
     "timeYear": 641,
     "dailyMinutesDown": {
+      "2023-06-15": 1,
       "2023-06-06": 45
     }
   },
@@ -88,9 +89,9 @@
     "url": "https://api.so-comply.com/v1/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api.so-comply.com.ico",
     "slug": "so-comply-europe-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
@@ -100,6 +101,7 @@
     "timeMonth": 661,
     "timeYear": 679,
     "dailyMinutesDown": {
+      "2023-06-15": 0,
       "2023-06-06": 44
     }
   },

@@ -1,7 +1,7 @@
 url: https://api-swiss.so-comply.com/v1/health-check
-status: up
-code: 200
-responseTime: 768
-lastUpdated: 2023-06-19T20:57:15.660Z
+status: down
+code: 502
+responseTime: 969
+lastUpdated: 2023-06-19T21:05:37.356Z
 startTime: Wed Jan 18 2023 16:10:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

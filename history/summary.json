@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1261,
-    "timeDay": 1260,
-    "timeWeek": 1209,
-    "timeMonth": 1175,
-    "timeYear": 1178,
+    "time": 1260,
+    "timeDay": 1029,
+    "timeWeek": 1148,
+    "timeMonth": 1176,
+    "timeYear": 1177,
     "dailyMinutesDown": {
       "2024-04-08": 41,
       "2023-09-21": 307,
@@ -38,10 +38,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 677,
-    "timeDay": 494,
-    "timeWeek": 531,
-    "timeMonth": 583,
-    "timeYear": 672,
+    "timeDay": 495,
+    "timeWeek": 485,
+    "timeMonth": 584,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2023-12-14": 20,
       "2023-08-15": 46
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 724,
-    "timeDay": 595,
-    "timeWeek": 575,
-    "timeMonth": 639,
-    "timeYear": 726,
+    "time": 723,
+    "timeDay": 539,
+    "timeWeek": 536,
+    "timeMonth": 638,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2023-12-14": 20,
       "2023-08-15": 46
@@ -80,10 +80,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 706,
-    "timeDay": 452,
-    "timeWeek": 497,
-    "timeMonth": 551,
-    "timeYear": 732,
+    "timeDay": 406,
+    "timeWeek": 455,
+    "timeMonth": 550,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2023-11-19": 26,
       "2023-11-18": 21,
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 671,
-    "timeDay": 541,
-    "timeWeek": 529,
-    "timeMonth": 595,
-    "timeYear": 668,
+    "time": 670,
+    "timeDay": 492,
+    "timeWeek": 495,
+    "timeMonth": 593,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2023-11-19": 26,
       "2023-11-18": 21,
@@ -143,14 +143,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 668,
-    "timeDay": 547,
-    "timeWeek": 551,
-    "timeMonth": 586,
-    "timeYear": 656,
-    "dailyMinutesDown": {
-      "2023-06-19": 53
-    }
+    "time": 667,
+    "timeDay": 443,
+    "timeWeek": 507,
+    "timeMonth": 584,
+    "timeYear": 655,
+    "dailyMinutesDown": {}
   },
   {
     "name": "So Comply Switzerland Api",
@@ -163,13 +161,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 702,
-    "timeDay": 827,
-    "timeWeek": 618,
-    "timeMonth": 636,
-    "timeYear": 694,
-    "dailyMinutesDown": {
-      "2023-06-19": 52
-    }
+    "time": 701,
+    "timeDay": 498,
+    "timeWeek": 569,
+    "timeMonth": 634,
+    "timeYear": 693,
+    "dailyMinutesDown": {}
   }
 ]

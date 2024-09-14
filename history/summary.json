@@ -46,9 +46,9 @@
     "url": "https://api-lux.so-comply.com/v1/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api-lux.so-comply.com.ico",
     "slug": "so-comply-luxembourg-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,6 +58,7 @@
     "timeMonth": 606,
     "timeYear": 657,
     "dailyMinutesDown": {
+      "2024-09-14": 0,
       "2023-12-14": 20
     }
   },
@@ -115,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app-swiss.so-comply.com.ico",
     "slug": "so-comply-switzerland",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",

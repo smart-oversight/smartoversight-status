@@ -115,19 +115,19 @@
     "url": "https://app-swiss.so-comply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app-swiss.so-comply.com.ico",
     "slug": "so-comply-switzerland",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 639,
-    "timeDay": 504,
-    "timeWeek": 671,
-    "timeMonth": 664,
-    "timeYear": 616,
+    "timeDay": 631,
+    "timeWeek": 682,
+    "timeMonth": 667,
+    "timeYear": 617,
     "dailyMinutesDown": {
-      "2024-10-14": 0
+      "2024-10-14": 10
     }
   },
   {

@@ -48,12 +48,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 671,
     "timeDay": 479,
     "timeWeek": 731,
-    "timeMonth": 685,
+    "timeMonth": 692,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2024-09-16": 23,
@@ -115,9 +115,9 @@
     "url": "https://app-swiss.so-comply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app-swiss.so-comply.com.ico",
     "slug": "so-comply-switzerland",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,7 +126,9 @@
     "timeWeek": 671,
     "timeMonth": 664,
     "timeYear": 616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-14": 0
+    }
   },
   {
     "name": "So Comply Switzerland Api",

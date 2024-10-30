@@ -24,10 +24,10 @@
     "url": "https://app-lux.so-comply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app-lux.so-comply.com.ico",
     "slug": "so-comply-luxembourg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 645,
@@ -36,6 +36,7 @@
     "timeMonth": 616,
     "timeYear": 627,
     "dailyMinutesDown": {
+      "2024-10-30": 2,
       "2023-12-14": 20
     }
   },

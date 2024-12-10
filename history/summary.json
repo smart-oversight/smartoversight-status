@@ -88,7 +88,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.so-comply.com.ico",
     "slug": "so-comply-europe-api",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -125,17 +125,19 @@
     "url": "https://api-swiss.so-comply.com/v1/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api-swiss.so-comply.com.ico",
     "slug": "so-comply-switzerland-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 659,
-    "timeDay": 521,
-    "timeWeek": 681,
-    "timeMonth": 611,
+    "time": 658,
+    "timeDay": 536,
+    "timeWeek": 665,
+    "timeMonth": 609,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-10": 0
+    }
   }
 ]

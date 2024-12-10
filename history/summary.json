@@ -125,19 +125,19 @@
     "url": "https://api-swiss.so-comply.com/v1/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api-swiss.so-comply.com.ico",
     "slug": "so-comply-switzerland-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 658,
-    "timeDay": 536,
-    "timeWeek": 665,
-    "timeMonth": 609,
+    "timeDay": 527,
+    "timeWeek": 648,
+    "timeMonth": 606,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-12-10": 0
+      "2024-12-10": 10
     }
   }
 ]

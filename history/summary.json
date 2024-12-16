@@ -106,18 +106,16 @@
     "slug": "so-comply-switzerland",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 629,
     "timeDay": 585,
     "timeWeek": 886,
     "timeMonth": 690,
     "timeYear": 609,
-    "dailyMinutesDown": {
-      "2024-12-15": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "So Comply Switzerland Api",
@@ -126,17 +124,15 @@
     "slug": "so-comply-switzerland-api",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 654,
     "timeDay": 622,
     "timeWeek": 617,
     "timeMonth": 622,
     "timeYear": 633,
-    "dailyMinutesDown": {
-      "2024-12-15": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]

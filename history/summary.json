@@ -28,9 +28,9 @@
     "slug": "so-comply-luxembourg",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 1044,
@@ -38,7 +38,7 @@
     "timeMonth": 660,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-05-14": 1
+      "2025-05-14": 9
     }
   },
   {

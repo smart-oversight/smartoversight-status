@@ -26,19 +26,19 @@
     "url": "https://app-lux.so-comply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app-lux.so-comply.com.ico",
     "slug": "so-comply-luxembourg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 1044,
-    "timeWeek": 695,
-    "timeMonth": 660,
-    "timeYear": 586,
+    "time": 610,
+    "timeDay": 1007,
+    "timeWeek": 729,
+    "timeMonth": 670,
+    "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-05-14": 9
+      "2025-05-14": 24
     }
   },
   {

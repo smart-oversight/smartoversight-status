@@ -1,7 +1,7 @@
 url: https://api.so-comply.com/v1/health-check
-status: down
-code: 502
-responseTime: 697
-lastUpdated: 2026-01-08T15:04:48.394Z
+status: up
+code: 200
+responseTime: 467
+lastUpdated: 2026-01-08T15:16:39.288Z
 startTime: 2023-01-18T16:10:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -162,21 +162,21 @@
     "url": "https://app-swiss.so-comply.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app-swiss.so-comply.com.ico",
     "slug": "so-comply-switzerland",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "89.69%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "85.31%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.93%",
     "time": 623,
-    "timeDay": 10306,
-    "timeWeek": 3091,
-    "timeMonth": 1309,
+    "timeDay": 7108,
+    "timeWeek": 2826,
+    "timeMonth": 1291,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2026-04-29": 40,
-      "2026-07-08": 148
+      "2026-07-08": 212
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://api-swiss.so-comply.com/v1/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api-swiss.so-comply.com.ico",
     "slug": "so-comply-switzerland-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "90.03%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.97%",
-    "time": 588,
-    "timeDay": 514,
-    "timeWeek": 431,
+    "uptimeDay": "85.65%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.96%",
+    "time": 587,
+    "timeDay": 462,
+    "timeWeek": 428,
     "timeMonth": 430,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2026-07-08": 144
+      "2026-07-08": 207
     }
   }
 ]

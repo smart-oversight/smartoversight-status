@@ -4,16 +4,16 @@
     "url": "https://www.smart-oversight.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.smart-oversight.com.ico",
     "slug": "smart-oversight-website",
-    "status": "down",
+    "status": "up",
     "uptime": "96.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "88.95%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "88.93%",
     "time": 1163,
-    "timeDay": 1003,
-    "timeWeek": 1257,
-    "timeMonth": 1268,
+    "timeDay": 1029,
+    "timeWeek": 1231,
+    "timeMonth": 1206,
     "timeYear": 1129,
     "dailyMinutesDown": {
       "2025-08-12": 16,
@@ -62,7 +62,7 @@
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 249,
-      "2026-07-21": 0
+      "2026-07-21": 108
     }
   },
   {
@@ -79,7 +79,7 @@
     "time": 996,
     "timeDay": 1276,
     "timeWeek": 1464,
-    "timeMonth": 1377,
+    "timeMonth": 1379,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2025-11-18": 117,
@@ -103,7 +103,7 @@
     "time": 577,
     "timeDay": 387,
     "timeWeek": 462,
-    "timeMonth": 439,
+    "timeMonth": 441,
     "timeYear": 561,
     "dailyMinutesDown": {
       "2026-03-03": 20,
@@ -125,7 +125,7 @@
     "time": 368,
     "timeDay": 276,
     "timeWeek": 301,
-    "timeMonth": 371,
+    "timeMonth": 376,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2025-11-18": 152,
@@ -148,7 +148,7 @@
     "time": 512,
     "timeDay": 251,
     "timeWeek": 268,
-    "timeMonth": 318,
+    "timeMonth": 320,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2025-08-25": 734,
@@ -172,7 +172,7 @@
     "time": 632,
     "timeDay": 570,
     "timeWeek": 1268,
-    "timeMonth": 1433,
+    "timeMonth": 1461,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2025-11-18": 126,
@@ -194,8 +194,8 @@
     "time": 582,
     "timeDay": 370,
     "timeWeek": 445,
-    "timeMonth": 447,
-    "timeYear": 564,
+    "timeMonth": 450,
+    "timeYear": 565,
     "dailyMinutesDown": {
       "2026-07-08": 207
     }
